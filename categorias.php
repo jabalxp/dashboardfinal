@@ -27,6 +27,7 @@
                             <th>ID</th>
                             <th style="text-align: center;">Nome</th>
                             <th>Status</th>
+                            <th>Ações</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -34,11 +35,21 @@
                             <td>01</td>
                             <td style="text-align: center;">Rafael Adriano Oliveira da Silva</td>
                             <td><span class="badge ativo">Ativo</span></td>
+                            <td>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa fa-trash" aria-hidden="true"></i>
+                            <button class="btn-icon"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </td>
                         </tr>
                         <tr>
                             <td>02</td>
                             <td style="text-align: center;">Ana Souza</td>
                             <td><span class="badge ativo">Ativo</span></td>
+                            <td>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa fa-trash" aria-hidden="true"></i>
+                            <button class="btn-icon"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </td>
                         </tr>
 
                         </tr>
@@ -47,12 +58,23 @@
                             <td>03</td>
                             <td style="text-align: center;">Miguel Casteletti Rosa</td>
                             <td><span class="badge inativo">Inativo</span></td>
+                            <td>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa fa-trash" aria-hidden="true"></i>
+                            <button class="btn-icon"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </td>
                         </tr>
                         <tr>
                             <td>04</td>
                             <td style="text-align: center;">Rafael Casteletti Rosa</td>
                             <td><span class="badge ativo">Ativo</span></td>
+                            <td>
+                            <button class="btn-icon"><i class="fa-solid fa-pen"></i></button>
+                            <button class="btn-icon"><i class="fa fa-trash" aria-hidden="true"></i>
+                            <button class="btn-icon"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </td>
                         </tr>
+                        
                     </tbody>
                     <tfoot>
                         <tr>
